@@ -21,4 +21,3 @@ int main(d)
 	printf("size of a float: %lu", sizeof(e));
 	return (0);
 }
-
