@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - it prints out output using put
+ * main - print alphabet
  * Description: Prints alphabet in one line
  * Return: Always (0)
  */
