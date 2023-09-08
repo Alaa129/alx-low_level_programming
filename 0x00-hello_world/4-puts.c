@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - print alphabet
- * Description: Prints alphabet in one line
+ * Description: Prints output using put
  * Return: Always (0)
  */
 
