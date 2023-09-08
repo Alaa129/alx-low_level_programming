@@ -6,7 +6,7 @@
  * Return: Always (0)
  *
  */
-int main(d)
+int main(void)
 {
 	char a;
 	int b;
