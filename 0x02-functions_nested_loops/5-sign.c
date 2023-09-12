@@ -5,9 +5,9 @@
 * 0 if n is zero and - if n is less
 * than zero.
 *
-* @c: takes integer type input for function.
+* @n: takes integer type input for function.
 *
-* Return: 1 if is +, 0 if 0 and -1 if -
+* Return: Return: 1 if positive, 0 if zero, -1 if negative
 */
 
 int print_sign(int n)
