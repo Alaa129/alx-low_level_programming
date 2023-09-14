@@ -4,6 +4,7 @@
  * print_square - prints a square of a specified size using #
  * @size: the size of the square
  */
+ 
 void print_square(int size)
 {
 	int row, col;
