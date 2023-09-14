@@ -6,7 +6,6 @@
  * numbers that are multiples of 5 print Buzz
  * numbers that are multiples of 3 and 5 print fizzBuzz
  * each number and word to be separated by space
-
  *Return: Always 0 (Success)
  */
 
