@@ -1,1 +1,1 @@
-2Hello C Static Librairies
+Hello C Static Librairies
