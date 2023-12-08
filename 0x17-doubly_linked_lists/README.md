@@ -1,1 +1,1 @@
-0x017 in c tasks
+traying to solve the problem in this task
